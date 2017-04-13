@@ -6,6 +6,7 @@ import android.util.Log;
 
 public class MainActivity extends Activity {
 
+    private static int a=1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -13,5 +14,6 @@ public class MainActivity extends Activity {
         Log.e("a", "sss");
         Log.e("b", "ttt");
         Log.e("c", "www");
+
     }
 }
