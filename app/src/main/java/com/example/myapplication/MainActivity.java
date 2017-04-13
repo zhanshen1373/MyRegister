@@ -6,7 +6,7 @@ import android.util.Log;
 
 public class MainActivity extends Activity {
 
-     private static int b=2;
+     private static int a=1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
